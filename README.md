@@ -6,4 +6,4 @@ En esta página se encuentran los apuntes [ErciApps](https://erciapps.sytes.net)
 
 En esta página se encuentras mis apuntes [Apuntes](https://github.com/Troledbg/DAM)
 
-<img src="img/DAM.jpg" width="500">
+<img src="img/DAM.jpg" width="400">
